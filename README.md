@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kelvin-444
+- 👋 Hi, I’m Kelvin
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Dart/Flutter
 - 💞️ I’m looking to collaborate on mobile app development 
